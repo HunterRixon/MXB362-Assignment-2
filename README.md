@@ -1,5 +1,5 @@
 I should state first that the program will not run just by activating the python file, you will need to run the program within an iteration of Visual Studio (I used Visual Studio: Code). 
-While it isn't necessary, you should run the debugger (it will only 'debug' if you use the 'Python File' debug option).
+While it isn't necessary, you should run the debugger as well (it will only 'debug' if you use the 'Python File' debug option).
 
 BUT BEFORE EVEN THAT you will need several packages installed, AND create the 'data' folder and import the right data into it.
 The data comes from here, https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data, create a 'data' folder in the same directory and put the .csv file into it.
